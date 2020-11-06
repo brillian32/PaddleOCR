@@ -1,0 +1,18 @@
+默认医院12导联心电图报告, 0.964 
+申请科室：默认科室, 0.966 
+住院号：, 0.988 
+诊断结果：, 0.902 
+1.窦性心律, 0.983 
+2.***正常心电图***, 0.995 
+诊断医生：, 0.956 
+ACKNOWLEDGEMENTS, 0.980 
+We would like to thank all the designers and, 0.988 
+contributors who have been involved in the, 0.971 
+production of this book； their contributions, 0.981 
+have been indispensable to its creation. We, 0.971 
+would also like to express our gratitude to all, 0.989 
+the producers for their invaluable opinions, 0.981 
+and assistance throughout this project. And to, 0.978 
+the many others whose names are not credited, 0.984 
+but have made specific input in this book, we, 0.979 
+thank you for your continuous support., 0.989 
